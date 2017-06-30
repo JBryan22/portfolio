@@ -12,6 +12,8 @@ ul {
   padding: 0;
 }
 
+/* HEADER SECTION */
+
 .header {
   text-align: center;
   margin: auto;
@@ -31,6 +33,8 @@ ul {
   margin:auto;
 }
 
+/* PROJECTS SECTION */
+
 .projects h2 {
   padding-top: 0.8em;
   border-top: 2px solid lightblue;
@@ -49,6 +53,24 @@ ul {
   border-bottom: 1px solid lightblue;
 }
 
+/* BACKGROUND EDUCATION EXPERIECE SECTION */
+
 .background {
+  text-align: center;
+}
+
+/* HOBBIES SECTION */
+
+.hobbies {
+  text-align: center;
+}
+
+.hobbies img {
+  max-height: 175px;
+}
+
+/* FOOTER SECTION */
+
+.footer {
   text-align: center;
 }
