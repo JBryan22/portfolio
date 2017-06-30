@@ -12,6 +12,11 @@ ul {
   padding: 0;
 }
 
+.border-line {
+  padding-top: 0.8em;
+  border-top: 2px solid lightblue;
+}
+
 /* HEADER SECTION */
 
 .header {
@@ -36,8 +41,6 @@ ul {
 /* PROJECTS SECTION */
 
 .projects h2 {
-  padding-top: 0.8em;
-  border-top: 2px solid lightblue;
   text-align: center;
 }
 
