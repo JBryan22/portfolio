@@ -16,4 +16,4 @@ _This is a webpage initially created during a solo project at Epicodus. It is a 
 
 _Contact me at http://github.com/jbryan22_
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_Jesse Bryan_**
