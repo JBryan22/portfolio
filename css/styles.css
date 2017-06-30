@@ -9,7 +9,11 @@ ul, ol {
 }
 
 h1, h2 {
-  color: #4C6663;
+  color: black;
+}
+
+a {
+  color: #9DB5B2;
 }
 
 .container {
@@ -18,7 +22,7 @@ h1, h2 {
 
 .border-line {
   padding-top: 0.8em;
-  border-top: 2px solid lightblue;
+  border-top: 2px solid #ADD8E6;
 }
 
 /* HEADER SECTION */
@@ -56,10 +60,6 @@ h1, h2 {
   margin-bottom: 2em;
 }
 
-.project-name {
-  border-bottom: 1px solid lightblue;
-}
-
 /* BACKGROUND EDUCATION EXPERIECE SECTION */
 
 .background {
@@ -71,7 +71,7 @@ h1, h2 {
 }
 
 .underlined {
-  border-bottom: 1px solid lightblue;
+  border-bottom: 1px solid #ADD8E6;
 }
 
 /* HOBBIES SECTION */
@@ -88,4 +88,8 @@ h1, h2 {
 
 .footer {
   text-align: center;
+}
+
+.footer div {
+  margin: 0 0.1em;
 }
