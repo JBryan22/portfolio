@@ -2,6 +2,12 @@ body {
   background-color: #f6f6f6;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 .container {
   padding: 0;
 }
@@ -33,5 +39,16 @@ body {
 
 .projects ul {
   text-align: center;
-  list-style: none;
+}
+
+.projects li {
+  margin-bottom: 2em;
+}
+
+.project-name {
+  border-bottom: 1px solid lightblue;
+}
+
+.background {
+  text-align: center;
 }
