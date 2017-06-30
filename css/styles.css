@@ -1,5 +1,12 @@
-.header {
+body {
   background-color: #f6f6f6;
+}
+
+.container {
+  padding: 0;
+}
+
+.header {
   text-align: center;
   margin: auto;
   padding: 1.5em 0;
@@ -12,7 +19,19 @@
 
 .header img {
   border-radius: 50%;
+  border: 1px solid black;
   width:60%;
   display:block;
   margin:auto;
+}
+
+.projects h2 {
+  padding-top: 0.8em;
+  border-top: 2px solid lightblue;
+  text-align: center;
+}
+
+.projects ul {
+  text-align: center;
+  list-style: none;
 }
